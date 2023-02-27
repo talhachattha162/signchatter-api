@@ -34,7 +34,6 @@ Markdown==3.4.1
 MarkupSafe==2.1.2
 matplotlib==3.7.0
 mediapipe==0.9.1.0
-msvc-runtime==14.34.31931
 numpy==1.24.2
 oauthlib==3.2.2
 opencv-contrib-python==4.7.0.72
